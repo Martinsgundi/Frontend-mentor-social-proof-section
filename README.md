@@ -34,13 +34,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/responsive-socialproofsection-using-flexbox-and-grid-layout-kUDsUyW3Yf)
+- Live Site URL: [martinsgundi.github.io](https://martinsgundi.github.io/Frontend-mentor-social-proof-section/)
 
-### Built with
+### Built with  
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS3
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
@@ -69,11 +69,9 @@ body {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Linkedin - [Martins Ogundipe](https://www.linkedin.com/in/martinsgundi)
+- Frontend Mentor - [Martinsgundi](https://www.frontendmentor.io/profile/Martinsgundi)
+- Twitter - [Martinsgundi1](https://www.twitter.com/martinsgundi1)
 
 ## Acknowledgments
 
